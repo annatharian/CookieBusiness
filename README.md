@@ -11,3 +11,4 @@ DAX Formula used for this project:
 7. Day of Week = WEEKDAY(Orders[Date],1)
 8. Count of Orders = COUNTROWS(Orders)
 9. Total Profit per Cookie = SUMX('Cookie Types', 'Cookie Types'[Units Sold]*('Cookie Types'[Revenue Per Cookie]-'Cookie Types'[Cost Per Cookie]))
+![Uploading image.png…]()
